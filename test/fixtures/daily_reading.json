@@ -1,0 +1,132 @@
+{
+ "id": "x",
+ "user_id": "u",
+ "reading_date": "2026-10-29",
+ "data": {
+  "moon": {
+   "sign": "Gemini",
+   "name": "Waning Gibbous",
+   "angle": 221.92,
+   "illumination": 0.871
+  },
+  "planets": [
+   {
+    "name": "Sun",
+    "sign": "Scorpio",
+    "retrograde": false,
+    "longitude": 215.829
+   },
+   {
+    "name": "Moon",
+    "sign": "Gemini",
+    "retrograde": false,
+    "longitude": 77.7546
+   },
+   {
+    "name": "Mercury",
+    "sign": "Scorpio",
+    "retrograde": true,
+    "longitude": 229.2135
+   },
+   {
+    "name": "Venus",
+    "sign": "Libra",
+    "retrograde": true,
+    "longitude": 207.7049
+   },
+   {
+    "name": "Mars",
+    "sign": "Leo",
+    "retrograde": false,
+    "longitude": 137.2245
+   },
+   {
+    "name": "Jupiter",
+    "sign": "Leo",
+    "retrograde": false,
+    "longitude": 143.9797
+   },
+   {
+    "name": "Saturn",
+    "sign": "Aries",
+    "retrograde": true,
+    "longitude": 9.4606
+   },
+   {
+    "name": "Uranus",
+    "sign": "Gemini",
+    "retrograde": true,
+    "longitude": 64.774
+   },
+   {
+    "name": "Neptune",
+    "sign": "Aries",
+    "retrograde": true,
+    "longitude": 2.1462
+   },
+   {
+    "name": "Pluto",
+    "sign": "Aquarius",
+    "retrograde": false,
+    "longitude": 303.1091
+   }
+  ],
+  "transits": [
+   {
+    "transit": "Venus",
+    "natal": "Saturn",
+    "type": "square",
+    "orb": 0.11
+   },
+   {
+    "transit": "Saturn",
+    "natal": "Sun",
+    "type": "square",
+    "orb": 0.2
+   },
+   {
+    "transit": "Sun",
+    "natal": "Pluto",
+    "type": "sextile",
+    "orb": 0.22
+   },
+   {
+    "transit": "Uranus",
+    "natal": "Jupiter",
+    "type": "trine",
+    "orb": 0.32
+   },
+   {
+    "transit": "Jupiter",
+    "natal": "Venus",
+    "type": "square",
+    "orb": 0.42
+   },
+   {
+    "transit": "Jupiter",
+    "natal": "Uranus",
+    "type": "conjunction",
+    "orb": 0.64
+   },
+   {
+    "transit": "Moon",
+    "natal": "Ascendant",
+    "type": "opposition",
+    "orb": 0.65
+   },
+   {
+    "transit": "Sun",
+    "natal": "Jupiter",
+    "type": "square",
+    "orb": 0.73
+   }
+  ],
+  "retrogrades": [
+   "Mercury",
+   "Venus",
+   "Saturn",
+   "Uranus",
+   "Neptune"
+  ]
+ }
+}

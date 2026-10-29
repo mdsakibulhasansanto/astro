@@ -1,0 +1,256 @@
+{
+ "profile_id": "p-notime",
+ "sun_sign": "Gemini",
+ "moon_sign": "Pisces",
+ "ascendant": null,
+ "ascendant_longitude": null,
+ "mc_longitude": null,
+ "house_system": null,
+ "planet_data": [
+  {
+   "name": "Sun",
+   "longitude": 83.8906,
+   "sign": "Gemini",
+   "house": null,
+   "retrograde": false,
+   "speed": 0.9551
+  },
+  {
+   "name": "Moon",
+   "longitude": 342.0289,
+   "sign": "Pisces",
+   "house": null,
+   "retrograde": false,
+   "speed": 13.4537
+  },
+  {
+   "name": "Mercury",
+   "longitude": 65.2632,
+   "sign": "Gemini",
+   "house": null,
+   "retrograde": false,
+   "speed": 1.7275
+  },
+  {
+   "name": "Venus",
+   "longitude": 48.4834,
+   "sign": "Taurus",
+   "house": null,
+   "retrograde": false,
+   "speed": 1.1762
+  },
+  {
+   "name": "Mars",
+   "longitude": 10.8613,
+   "sign": "Aries",
+   "house": null,
+   "retrograde": false,
+   "speed": 0.7187
+  },
+  {
+   "name": "Jupiter",
+   "longitude": 105.8353,
+   "sign": "Cancer",
+   "house": null,
+   "retrograde": false,
+   "speed": 0.2168
+  },
+  {
+   "name": "Saturn",
+   "longitude": 294.0465,
+   "sign": "Capricorn",
+   "house": null,
+   "retrograde": true,
+   "speed": -0.0589
+  },
+  {
+   "name": "Uranus",
+   "longitude": 278.1737,
+   "sign": "Capricorn",
+   "house": null,
+   "retrograde": true,
+   "speed": -0.039
+  },
+  {
+   "name": "Neptune",
+   "longitude": 283.7231,
+   "sign": "Capricorn",
+   "house": null,
+   "retrograde": true,
+   "speed": -0.0251
+  },
+  {
+   "name": "Pluto",
+   "longitude": 225.4072,
+   "sign": "Scorpio",
+   "house": null,
+   "retrograde": true,
+   "speed": -0.0201
+  },
+  {
+   "name": "North Node",
+   "longitude": 309.7075,
+   "sign": "Aquarius",
+   "house": null,
+   "retrograde": true,
+   "speed": -0.053
+  }
+ ],
+ "houses": [],
+ "aspects": [
+  {
+   "a": "Jupiter",
+   "b": "Pluto",
+   "type": "trine",
+   "angle": 119.57,
+   "orb": 0.43,
+   "applying": false
+  },
+  {
+   "a": "Neptune",
+   "b": "Pluto",
+   "type": "sextile",
+   "angle": 58.32,
+   "orb": 1.68,
+   "applying": false
+  },
+  {
+   "a": "Moon",
+   "b": "Neptune",
+   "type": "sextile",
+   "angle": 58.31,
+   "orb": 1.69,
+   "applying": true
+  },
+  {
+   "a": "Jupiter",
+   "b": "Neptune",
+   "type": "opposition",
+   "angle": 177.89,
+   "orb": 2.11,
+   "applying": false
+  },
+  {
+   "a": "Venus",
+   "b": "Jupiter",
+   "type": "sextile",
+   "angle": 57.35,
+   "orb": 2.65,
+   "applying": false
+  },
+  {
+   "a": "Mars",
+   "b": "Uranus",
+   "type": "square",
+   "angle": 92.69,
+   "orb": 2.69,
+   "applying": false
+  },
+  {
+   "a": "Mars",
+   "b": "Neptune",
+   "type": "square",
+   "angle": 87.14,
+   "orb": 2.86,
+   "applying": true
+  },
+  {
+   "a": "Venus",
+   "b": "Pluto",
+   "type": "opposition",
+   "angle": 176.92,
+   "orb": 3.08,
+   "applying": false
+  },
+  {
+   "a": "Moon",
+   "b": "Pluto",
+   "type": "trine",
+   "angle": 116.62,
+   "orb": 3.38,
+   "applying": true
+  },
+  {
+   "a": "Moon",
+   "b": "Jupiter",
+   "type": "trine",
+   "angle": 123.81,
+   "orb": 3.81,
+   "applying": true
+  },
+  {
+   "a": "Moon",
+   "b": "Uranus",
+   "type": "sextile",
+   "angle": 63.86,
+   "orb": 3.86,
+   "applying": false
+  },
+  {
+   "a": "Venus",
+   "b": "Neptune",
+   "type": "trine",
+   "angle": 124.76,
+   "orb": 4.76,
+   "applying": false
+  },
+  {
+   "a": "Mars",
+   "b": "Jupiter",
+   "type": "square",
+   "angle": 94.97,
+   "orb": 4.97,
+   "applying": true
+  },
+  {
+   "a": "Uranus",
+   "b": "Neptune",
+   "type": "conjunction",
+   "angle": 5.55,
+   "orb": 5.55,
+   "applying": false
+  },
+  {
+   "a": "Venus",
+   "b": "Saturn",
+   "type": "trine",
+   "angle": 114.44,
+   "orb": 5.56,
+   "applying": true
+  },
+  {
+   "a": "Moon",
+   "b": "Mercury",
+   "type": "square",
+   "angle": 83.23,
+   "orb": 6.77,
+   "applying": false
+  },
+  {
+   "a": "Jupiter",
+   "b": "Uranus",
+   "type": "opposition",
+   "angle": 172.34,
+   "orb": 7.66,
+   "applying": false
+  }
+ ],
+ "element_balance": {
+  "Fire": 9,
+  "Earth": 18,
+  "Air": 36,
+  "Water": 36
+ },
+ "modality_balance": {
+  "Cardinal": 27,
+  "Fixed": 9,
+  "Mutable": 64
+ },
+ "dominant_element": "Air",
+ "weakest_element": "Fire",
+ "moon_phase": {
+  "name": "Last Quarter",
+  "angle": 258.13,
+  "illumination": 0.604
+ }
+}

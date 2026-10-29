@@ -1,0 +1,333 @@
+{
+ "profile_id": "p-diana",
+ "sun_sign": "Cancer",
+ "moon_sign": "Aquarius",
+ "ascendant": "Sagittarius",
+ "ascendant_longitude": 258.4089,
+ "mc_longitude": 203.0525,
+ "house_system": "placidus",
+ "planet_data": [
+  {
+   "name": "Sun",
+   "longitude": 99.663,
+   "sign": "Cancer",
+   "house": 7,
+   "retrograde": false,
+   "speed": 0.9531
+  },
+  {
+   "name": "Moon",
+   "longitude": 325.0383,
+   "sign": "Aquarius",
+   "house": 2,
+   "retrograde": false,
+   "speed": 14.5709
+  },
+  {
+   "name": "Mercury",
+   "longitude": 93.2021,
+   "sign": "Cancer",
+   "house": 7,
+   "retrograde": true,
+   "speed": -0.4578
+  },
+  {
+   "name": "Venus",
+   "longitude": 54.4001,
+   "sign": "Taurus",
+   "house": 5,
+   "retrograde": false,
+   "speed": 1.0254
+  },
+  {
+   "name": "Mars",
+   "longitude": 151.6459,
+   "sign": "Virgo",
+   "house": 8,
+   "retrograde": false,
+   "speed": 0.5917
+  },
+  {
+   "name": "Jupiter",
+   "longitude": 305.0967,
+   "sign": "Aquarius",
+   "house": 2,
+   "retrograde": true,
+   "speed": -0.1051
+  },
+  {
+   "name": "Saturn",
+   "longitude": 297.8135,
+   "sign": "Capricorn",
+   "house": 1,
+   "retrograde": true,
+   "speed": -0.0684
+  },
+  {
+   "name": "Uranus",
+   "longitude": 143.3364,
+   "sign": "Leo",
+   "house": 8,
+   "retrograde": false,
+   "speed": 0.0492
+  },
+  {
+   "name": "Neptune",
+   "longitude": 218.6332,
+   "sign": "Scorpio",
+   "house": 10,
+   "retrograde": true,
+   "speed": -0.0096
+  },
+  {
+   "name": "Pluto",
+   "longitude": 156.0445,
+   "sign": "Virgo",
+   "house": 8,
+   "retrograde": false,
+   "speed": 0.0215
+  },
+  {
+   "name": "North Node",
+   "longitude": 149.7187,
+   "sign": "Leo",
+   "house": 8,
+   "retrograde": true,
+   "speed": -0.053
+  }
+ ],
+ "houses": [
+  {
+   "house": 1,
+   "sign": "Sagittarius",
+   "cusp": 258.4089
+  },
+  {
+   "house": 2,
+   "sign": "Capricorn",
+   "cusp": 299.8047
+  },
+  {
+   "house": 3,
+   "sign": "Pisces",
+   "cusp": 348.3557
+  },
+  {
+   "house": 4,
+   "sign": "Aries",
+   "cusp": 23.0525
+  },
+  {
+   "house": 5,
+   "sign": "Taurus",
+   "cusp": 46.0532
+  },
+  {
+   "house": 6,
+   "sign": "Gemini",
+   "cusp": 63.2931
+  },
+  {
+   "house": 7,
+   "sign": "Gemini",
+   "cusp": 78.4089
+  },
+  {
+   "house": 8,
+   "sign": "Cancer",
+   "cusp": 119.8047
+  },
+  {
+   "house": 9,
+   "sign": "Virgo",
+   "cusp": 168.3557
+  },
+  {
+   "house": 10,
+   "sign": "Libra",
+   "cusp": 203.0525
+  },
+  {
+   "house": 11,
+   "sign": "Scorpio",
+   "cusp": 226.0532
+  },
+  {
+   "house": 12,
+   "sign": "Sagittarius",
+   "cusp": 243.2931
+  }
+ ],
+ "aspects": [
+  {
+   "a": "Uranus",
+   "b": "Midheaven",
+   "type": "sextile",
+   "angle": 59.72,
+   "orb": 0.28,
+   "applying": false
+  },
+  {
+   "a": "Moon",
+   "b": "Venus",
+   "type": "square",
+   "angle": 89.36,
+   "orb": 0.64,
+   "applying": false
+  },
+  {
+   "a": "Sun",
+   "b": "Neptune",
+   "type": "trine",
+   "angle": 118.97,
+   "orb": 1.03,
+   "applying": false
+  },
+  {
+   "a": "Venus",
+   "b": "Uranus",
+   "type": "square",
+   "angle": 88.94,
+   "orb": 1.06,
+   "applying": false
+  },
+  {
+   "a": "Mercury",
+   "b": "Mars",
+   "type": "sextile",
+   "angle": 58.44,
+   "orb": 1.56,
+   "applying": true
+  },
+  {
+   "a": "Moon",
+   "b": "Uranus",
+   "type": "opposition",
+   "angle": 178.3,
+   "orb": 1.7,
+   "applying": false
+  },
+  {
+   "a": "Moon",
+   "b": "Midheaven",
+   "type": "trine",
+   "angle": 121.99,
+   "orb": 1.99,
+   "applying": false
+  },
+  {
+   "a": "Neptune",
+   "b": "Pluto",
+   "type": "sextile",
+   "angle": 62.59,
+   "orb": 2.59,
+   "applying": true
+  },
+  {
+   "a": "Mercury",
+   "b": "Pluto",
+   "type": "sextile",
+   "angle": 62.84,
+   "orb": 2.84,
+   "applying": false
+  },
+  {
+   "a": "Venus",
+   "b": "Saturn",
+   "type": "trine",
+   "angle": 116.59,
+   "orb": 3.41,
+   "applying": true
+  },
+  {
+   "a": "Jupiter",
+   "b": "Neptune",
+   "type": "square",
+   "angle": 86.46,
+   "orb": 3.54,
+   "applying": false
+  },
+  {
+   "a": "Sun",
+   "b": "Pluto",
+   "type": "sextile",
+   "angle": 56.38,
+   "orb": 3.62,
+   "applying": false
+  },
+  {
+   "a": "Mars",
+   "b": "Pluto",
+   "type": "conjunction",
+   "angle": 4.4,
+   "orb": 4.4,
+   "applying": true
+  },
+  {
+   "a": "Saturn",
+   "b": "Midheaven",
+   "type": "square",
+   "angle": 94.76,
+   "orb": 4.76,
+   "applying": true
+  },
+  {
+   "a": "Uranus",
+   "b": "Ascendant",
+   "type": "trine",
+   "angle": 115.07,
+   "orb": 4.93,
+   "applying": false
+  },
+  {
+   "a": "Mercury",
+   "b": "Neptune",
+   "type": "trine",
+   "angle": 125.43,
+   "orb": 5.43,
+   "applying": false
+  },
+  {
+   "a": "Sun",
+   "b": "Mercury",
+   "type": "conjunction",
+   "angle": 6.46,
+   "orb": 6.46,
+   "applying": false
+  },
+  {
+   "a": "Moon",
+   "b": "Mars",
+   "type": "opposition",
+   "angle": 173.39,
+   "orb": 6.61,
+   "applying": true
+  },
+  {
+   "a": "Jupiter",
+   "b": "Saturn",
+   "type": "conjunction",
+   "angle": 7.28,
+   "orb": 7.28,
+   "applying": true
+  }
+ ],
+ "element_balance": {
+  "Fire": 15,
+  "Earth": 23,
+  "Air": 31,
+  "Water": 31
+ },
+ "modality_balance": {
+  "Cardinal": 38,
+  "Fixed": 38,
+  "Mutable": 23
+ },
+ "dominant_element": "Air",
+ "weakest_element": "Fire",
+ "moon_phase": {
+  "name": "Waning Gibbous",
+  "angle": 225.37,
+  "illumination": 0.852
+ }
+}
